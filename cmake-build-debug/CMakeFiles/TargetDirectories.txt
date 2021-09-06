@@ -1,0 +1,3 @@
+/home/CookiieZ/Epitech/hub/git_repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/CookiieZ/Epitech/hub/git_repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/CookiieZ/Epitech/hub/git_repo/cmake-build-debug/CMakeFiles/snake_sfml.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/hub/git_repo/classes/game.hpp
+snake.hpp
+/home/CookiieZ/Epitech/hub/git_repo/classes/snake.hpp
+
+/home/CookiieZ/Epitech/hub/git_repo/classes/snake.hpp
+SFML/Graphics.hpp
+-
+list
+-
+
+/home/CookiieZ/Epitech/hub/git_repo/include/all_includes.h
+iostream
+-
+SFML/Graphics.hpp
+-
+SFML/Window.hpp
+-
+SFML/Audio.hpp
+-
+SFML/System.hpp
+-
+../classes/game.hpp
+/home/CookiieZ/Epitech/hub/git_repo/classes/game.hpp
+
+/home/CookiieZ/Epitech/hub/git_repo/src/ai.c++
+../include/all_includes.h
+/home/CookiieZ/Epitech/hub/git_repo/include/all_includes.h
+
